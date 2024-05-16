@@ -31,7 +31,7 @@ export default function Home() {
 
           <button class="text-gray-950 hover:bg-[#FF00E5] rounded-full hover:text-white  px-4 py-2 bg-[#00FFA2]"><a href="https://calendly.com/robynnthompson/free-initial-client-strategy-meeting?month=2024-05" target="_blank">Schedule a consultation</a></button>
 
-          <p class="mt-6 mb-2 font-semibold text-lg">Clients <span class='text-[#00FFA2]'>&</span> Projects</p>
+          <p class="mt-4 font-semibold text-lg">Clients <span class='text-[#00FFA2]'>&</span> Projects</p>
 
           <div class="grid grid-cols-1 md:grid-cols-2 ">
               <div class=" p-4">
