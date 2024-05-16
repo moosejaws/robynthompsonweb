@@ -33,7 +33,7 @@ export default function Home() {
             <p className="mt-6 text-md leading-8 text-white">
             I bring over 20 years of experience working with a wide range of businesses and ventures, from startups to established family farms, non-profits, and food and beverage producers. I've produced over 125 episodes of recorded podcasts and live radio shows! Whether you need help getting a new project off the ground or fine-tuning an existing one, I can provide the guidance and expertise you need. I can help you develop project plans and strategies, set up essential administrative and management systems, and tackle marketing, databases, and overall operations. My hands-on approach means I've been in the trenches myself, launching value-added food products, running farm delivery programs, managing a WA state food processing license, and even opening and operating a cafe, coffee importing and online sales, rolling out a bottled beverage, catapulting a thriving catering & meal prep business, and even a documentary film project including grant writing. In short, I've worn pretty much every hat there is in the world of business development and project management. 
 </p>  
-            <p class="mt-6 mb-2 font-semibold text-lg">Projects <span class='text-[#00FFA2]'>&</span> Clients</p>
+            <p class="mt-6 mb-2 font-semibold text-lg">Clients <span class='text-[#00FFA2]'>&</span> Projects</p>
        
             <div class="grid grid-cols-1 md:grid-cols-2 ">
               <div class=" p-4">
@@ -45,7 +45,7 @@ export default function Home() {
                   </ul>               
               </div>
               
-              <div class="bg-gray-200 p-4">
+              <div class=" p-4">
                   <ul>
                     <li class="py-1">Konbit Cafe</li>
                     <li class="py-1">Kay Tita</li>
