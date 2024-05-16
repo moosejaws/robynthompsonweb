@@ -7,7 +7,7 @@ export default function Home() {
         <div className="lg:flex lg:w-1/2 lg:shrink lg:grow-0 xl:absolute xl:inset-y-0 xl:right-1/2 xl:w-1/2">
           <div className="relative h-80 lg:-ml-8 lg:h-auto lg:w-full lg:grow xl:ml-0">
             <img
-              className="absolute inset-0 h-full w-full bg-purple-800  object-cover"
+              className="absolute inset-0 h-full w-full bg-purple-800  object-cover object-center"
               src="https://i.imgur.com/4AMWK7G.jpg"
               alt=""
             />
@@ -50,7 +50,25 @@ export default function Home() {
 
 
             </ul>
-   
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div class="bg-gray-200 p-4">
+                  <ul>
+                    <li class="py-1">King County Reparations Project</li>
+                    <li class="py-1">Sidhu Farms</li>
+                    <li class="py-1">Natoncks Metsu</li>
+                    <li class="py-1">STPT Podcast</li>
+                  </ul>               
+              </div>
+              
+              <div class="bg-gray-200 p-4">
+                  <ul>
+                    <li class="py-1">King County Reparations Project</li>
+                    <li class="py-1">Sidhu Farms</li>
+                    <li class="py-1">Natoncks Metsu</li>
+                    <li class="py-1">STPT Podcast</li>
+                  </ul>      
+                </div>
+            </div>
       
             </div>
           </div>
