@@ -52,7 +52,7 @@ export default function Home() {
                   </ul>      
                 </div>
             </div>
-            <p class="mt-4 font-semibold text-lg">Bio</p>
+            <p class="mt-4 font-semibold text-lg">About me</p>
 
             <p className="mt-2 text-md leading-8 text-white">
             I bring over 20 years of experience working with a wide range of businesses and ventures, from startups to established family farms, non-profits, and food and beverage producers. I've produced over 125 episodes of recorded podcasts and live radio shows! Whether you need help getting a new project off the ground or fine-tuning an existing one, I can provide the guidance and expertise you need. I can help you develop project plans and strategies, set up essential administrative and management systems, and tackle marketing, databases, and overall operations. My hands-on approach means I've been in the trenches myself, launching value-added food products, running farm delivery programs, managing a WA state food processing license, and even opening and operating a cafe, coffee importing and online sales, rolling out a bottled beverage, catapulting a thriving catering & meal prep business, and even a documentary film project including grant writing. In short, I've worn pretty much every hat there is in the world of business development and project management. 
