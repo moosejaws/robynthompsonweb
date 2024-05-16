@@ -27,7 +27,7 @@ export default function Home() {
             />
           <p className="text-lg font-medium mt-4 leading-7 tracking-normal text-white">Consulting <span class='text-[#00FFA2]'>|</span> Coaching <span class='text-[#00FFA2]'>| </span> Web Dev <span class="text-[#00FFA2]">|</span> Graphic Design <span class="text-[#00FFA2]">| </span>Social Media</p>
 
-          <button class="mt-6 hover:bg-[#FF00E5] px-4 rounded-full text-gray-950 py-2 hover:text-white bg-[#00FFA2] mr-2"><a href="mailto:robynnthompson@gmail.com" target="_blank" >robynnthompson@gmail.com</a></button>
+          <a href="mailto:robynnthompson@gmail.com" target="_blank" ><button class="mt-6 hover:bg-[#FF00E5] px-4 rounded-full text-gray-950 py-2 hover:text-white bg-[#00FFA2] mr-2">robynnthompson@gmail.com</button></a>
 
           <button class="text-gray-950 hover:bg-[#FF00E5] rounded-full hover:text-white  px-4 py-2 bg-[#00FFA2]"><a href="https://calendly.com/robynnthompson/free-initial-client-strategy-meeting?month=2024-05" target="_blank">Schedule a consultation</a></button>
 
@@ -36,19 +36,19 @@ export default function Home() {
           <div class="grid grid-cols-1 md:grid-cols-2 ">
               <div class=" p-4">
                   <ul>
-                    <li class="py-1">King County Reparations Project</li>
-                    <li class="py-1">Sidhu Farms</li>
-                    <li class="py-1">Natoncks Metsu</li>
-                    <li class="py-1">STPT Podcast</li>
+                    <li class="py-1 hover:text-[#00FFA2]"><a href="https://kingcountyrp.org/" target="_blank">King County Reparations Project</a></li>
+                    <li class="py-1 hover:text-[#00FFA2]"><a href="https://www.sidhufarm.org/" target="_blank">Sidhu Farms</a></li>
+                    <li class="py-1 hover:text-[#00FFA2]"><a href="https://www.natoncksmetsu.com/" target="_blank">Natoncks Metsu</a></li>
+                    <li class="py-1 hover:text-[#00FFA2]"><a href="https://open.spotify.com/show/5AJfKFQc420TrtgJrilwGV" target="_blank">STPT Podcast</a></li>
                   </ul>               
               </div>
               
               <div class=" p-4">
                   <ul>
-                    <li class="py-1">Konbit Cafe</li>
-                    <li class="py-1">Kay Tita</li>
-                    <li class="py-1">Alvarez Farms</li>
-                    <li class="py-1">Kale Love</li>
+                    <li class="py-1 hover:text-[#00FFA2]"><a href="https://www.konbitcafe.com/" target="_blank">Konbit Cafe</a></li>
+                    <li class="py-1 hover:text-[#00FFA2]"><a href="https://www.kaytita.org/" target="_blank">Kay Tita</a></li>
+                    <li class="py-1 hover:text-[#00FFA2]"><a href="http://www.alvarezorganic.com/" target="_blank">Alvarez Farms</a></li>
+                    <li class="py-1 hover:text-[#00FFA2]"><a href="https://www.facebook.com/kalelove206/" target="_blank">Kale Love</a></li>
                   </ul>      
                 </div>
             </div>
