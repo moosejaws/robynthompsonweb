@@ -7,7 +7,7 @@ export default function Home() {
         <div className="lg:flex lg:w-1/2 lg:shrink lg:grow-0 xl:absolute xl:inset-y-0 xl:right-1/2 xl:w-1/2">
           <div className="relative h-80 lg:-ml-8 lg:h-auto lg:w-full lg:grow xl:ml-0">
             <img
-              className="absolute inset-0 h-full w-full bg-purple-800 p-10  object-cover"
+              className="absolute inset-0 h-full w-full bg-purple-800  object-cover"
               src="https://i.imgur.com/4AMWK7G.jpg"
               alt=""
             />
@@ -27,9 +27,9 @@ export default function Home() {
             />
           <p className="text-lg font-medium mt-4 leading-7 tracking-normal text-white">Consulting <span class='text-[#00FFA2]'>|</span> Coaching <span class='text-[#00FFA2]'>| </span> Web Dev <span class="text-[#00FFA2]">|</span> Graphic Design <span class="text-[#00FFA2]">| </span>Social Media</p>
 
-          <button class="mt-6 px-4 rounded-full text-gray-950 py-2 bg-[#00FFA2] mr-2"><a src="mailto:robynnthompson@gmail.com" target="_blank" >robynnthompson@gmail.com</a></button>
+          <button class="mt-6 hover:bg-[#FF00E5] px-4 rounded-full text-gray-950 py-2 bg-[#00FFA2] mr-2"><a src="mailto:robynnthompson@gmail.com" target="_blank" >robynnthompson@gmail.com</a></button>
 
-          <button class="text-gray-950 rounded-full  px-4 py-2 bg-[#00FFA2]"><a src="https://calendly.com/robynnthompson/free-initial-client-strategy-meeting?month=2024-05">Schedule a consultation</a></button>
+          <button class="text-gray-950 hover:bg-[#FF00E5] rounded-full  px-4 py-2 bg-[#00FFA2]"><a src="https://calendly.com/robynnthompson/free-initial-client-strategy-meeting?month=2024-05">Schedule a consultation</a></button>
             <p className="mt-6 text-md leading-8 text-white">
             I bring over 20 years of experience working with a wide range of businesses and ventures, from startups to established family farms, non-profits, and food and beverage producers. I've produced over 125 episodes of recorded podcasts and live radio shows! Whether you need help getting a new project off the ground or fine-tuning an existing one, I can provide the guidance and expertise you need. I can help you develop project plans and strategies, set up essential administrative and management systems, and tackle marketing, databases, and overall operations. My hands-on approach means I've been in the trenches myself, launching value-added food products, running farm delivery programs, managing a WA state food processing license, and even opening and operating a cafe, coffee importing and online sales, rolling out a bottled beverage, catapulting a thriving catering & meal prep business, and even a documentary film project including grant writing. In short, I've worn pretty much every hat there is in the world of business development and project management. 
 </p>  
