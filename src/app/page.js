@@ -47,10 +47,10 @@ export default function Home() {
               
               <div class="bg-gray-200 p-4">
                   <ul>
-                    <li class="py-1">King County Reparations Project</li>
-                    <li class="py-1">Sidhu Farms</li>
-                    <li class="py-1">Natoncks Metsu</li>
-                    <li class="py-1">STPT Podcast</li>
+                    <li class="py-1">Konbit Cafe</li>
+                    <li class="py-1">Kay Tita</li>
+                    <li class="py-1">Alvarez Farms</li>
+                    <li class="py-1">Kale Love</li>
                   </ul>      
                 </div>
             </div>
