@@ -36,19 +36,19 @@ export default function Home() {
           <div class="grid grid-cols-1 md:grid-cols-2 ">
               <div class=" p-4">
                   <ul>
-                    <li class="py-1 hover:text-[#00FFA2]"><a href="https://kingcountyrp.org/" target="_blank">King County Reparations Project</a></li>
-                    <li class="py-1 hover:text-[#00FFA2]"><a href="https://www.sidhufarm.org/" target="_blank">Sidhu Farms</a></li>
-                    <li class="py-1 hover:text-[#00FFA2]"><a href="https://www.natoncksmetsu.com/" target="_blank">Natoncks Metsu</a></li>
-                    <li class="py-1 hover:text-[#00FFA2]"><a href="https://open.spotify.com/show/5AJfKFQc420TrtgJrilwGV" target="_blank">STPT Podcast</a></li>
+                    <li class="py-1 hover:text-[#FF00E5]"><a href="https://kingcountyrp.org/" target="_blank">King County Reparations Project</a></li>
+                    <li class="py-1 hover:text-[#FF00E5]"><a href="https://www.sidhufarm.org/" target="_blank">Sidhu Farms</a></li>
+                    <li class="py-1 hover:text-[#FF00E5]"><a href="https://www.natoncksmetsu.com/" target="_blank">Natoncks Metsu</a></li>
+                    <li class="py-1 hover:text-[#FF00E5]"><a href="https://open.spotify.com/show/5AJfKFQc420TrtgJrilwGV" target="_blank">STPT Podcast</a></li>
                   </ul>               
               </div>
               
               <div class=" p-4">
                   <ul>
-                    <li class="py-1 hover:text-[#00FFA2]"><a href="https://www.konbitcafe.com/" target="_blank">Konbit Cafe</a></li>
-                    <li class="py-1 hover:text-[#00FFA2]"><a href="https://www.kaytita.org/" target="_blank">Kay Tita</a></li>
-                    <li class="py-1 hover:text-[#00FFA2]"><a href="http://www.alvarezorganic.com/" target="_blank">Alvarez Farms</a></li>
-                    <li class="py-1 hover:text-[#00FFA2]"><a href="https://www.facebook.com/kalelove206/" target="_blank">Kale Love</a></li>
+                    <li class="py-1 hover:text-[#FF00E5]"><a href="https://www.konbitcafe.com/" target="_blank">Konbit Cafe</a></li>
+                    <li class="py-1 hover:text-[#FF00E5]"><a href="https://www.kaytita.org/" target="_blank">Kay Tita</a></li>
+                    <li class="py-1 hover:text-[#FF00E5]"><a href="http://www.alvarezorganic.com/" target="_blank">Alvarez Farms</a></li>
+                    <li class="py-1 hover:text-[#FF00E5]"><a href="https://www.facebook.com/kalelove206/" target="_blank">Kale Love</a></li>
                   </ul>      
                 </div>
             </div>
