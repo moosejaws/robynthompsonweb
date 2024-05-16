@@ -15,7 +15,7 @@ export default function Home() {
         </div>
         <div className="px-6 lg:contents">
           <div className="mx-auto max-w-2xl pb-24 pt-16 sm:pb-32 sm:pt-20 lg:ml-8 lg:mr-0 lg:w-full lg:max-w-xl lg:flex-none lg:pt-32 xl:w-1/2">
-          <p className="text-base font-semibold leading-7 text-white"><span><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="m-auto inline-block w-6 h-6">
+          <p className="text-base font-semibold leading-7 text-white"><span><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="m-auto inline-block w-6 h-6 text-[#00FFA2]">
   <path strokeLinecap="round" strokeLinejoin="round" d="M9.813 15.904 9 18.75l-.813-2.846a4.5 4.5 0 0 0-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 0 0 3.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 0 0 3.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 0 0-3.09 3.09ZM18.259 8.715 18 9.75l-.259-1.035a3.375 3.375 0 0 0-2.455-2.456L14.25 6l1.036-.259a3.375 3.375 0 0 0 2.455-2.456L18 2.25l.259 1.035a3.375 3.375 0 0 0 2.456 2.456L21.75 6l-1.035.259a3.375 3.375 0 0 0-2.456 2.456ZM16.894 20.567 16.5 21.75l-.394-1.183a2.25 2.25 0 0 0-1.423-1.423L13.5 18.75l1.183-.394a2.25 2.25 0 0 0 1.423-1.423l.394-1.183.394 1.183a2.25 2.25 0 0 0 1.423 1.423l1.183.394-1.183.394a2.25 2.25 0 0 0-1.423 1.423Z" />
 </svg>
 
@@ -25,7 +25,7 @@ export default function Home() {
               src="https://i.imgur.com/D7d3js5.png"
               alt="Robyn N. Thompson"
             />
-          <p className="text-lg font-medium mt-4 leading-7 tracking-normal text-white]">Consulting <span class='text-[#00FFA2]'>|</span> Coaching <span class='text-[#00FFA2]'>| </span> Web Dev <span class="text-[#00FFA2]">|</span> Graphic Design <span class="text-[#00FFA2]">| </span>Social Media</p>
+          <p className="text-lg font-medium mt-4 leading-7 tracking-normal text-white">Consulting <span class='text-[#00FFA2]'>|</span> Coaching <span class='text-[#00FFA2]'>| </span> Web Dev <span class="text-[#00FFA2]">|</span> Graphic Design <span class="text-[#00FFA2]">| </span>Social Media</p>
 
           <button class="mt-4 px-3 text-gray-950 py-2 bg-[#00FFA2]"><a src="mailto:robynnthompson@gmail.com" target="_blank" >robynnthompson@gmail.com</a></button>
 
